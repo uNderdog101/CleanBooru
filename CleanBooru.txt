@@ -8,6 +8,7 @@ xbooru.com##a[href^="https://xbooru.com/b.html"]:nth-of-type(1)
 xbooru.com##a[href^="https://xbooru.com/b.html"]:nth-of-type(2)
 xbooru.com##a[href^="https://xbooru.com/b.html"]:nth-of-type(3)
 xbooru.com###right-col > div > div:nth-of-type(7)
+xbooru.com##div:nth-of-type(8)
 xbooru.com###smb
 @@||xbooru.com/script/application.js.php?2$script,first-party
 
